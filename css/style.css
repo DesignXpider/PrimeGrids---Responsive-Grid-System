@@ -1,0 +1,45 @@
+/* This is a dummy style. Just ignore it*/
+body {
+	background: #333;
+	font-family: arial;
+}
+p {
+	background: #3582bd;
+	font-weight: lighter;
+	color: #fff;
+	font-size: 70%;
+	padding: 1em;
+	line-height: 2em;
+	min-height: 100px;
+	text-transform: capitalize;
+	text-align: left;
+	 -webkit-box-shadow: 1px 1px 2px 1px #000;  
+  -moz-box-shadow: 1px 1px 2px 1px #000; 
+  box-shadow: 1px 1px 2px 1px #000; 
+}
+h1 {
+	font-size: 100%;
+	padding: 1em 0 0 0;
+	margin: 0 0 .5em 0;
+	display: block;
+	color: #fff;
+	border-bottom: 1px dashed #fff;
+	font-weight: lighter;
+	clear: both
+}
+footer {
+	text-align: center;
+	padding: 1em 0;
+	background: #000;
+	display: block;
+	color: #3582bd;
+	font-weight: lighter;
+}
+header {
+	text-align: center;
+	padding: 1em 0;
+	background: #000;
+	display: block;
+	color: #3582bd;
+	font-weight: lighter;
+}
