@@ -1,7 +1,5 @@
 # SNR Responsive Website Grid
 
-www.designer-uae.com 
-
 http://designer-uae.com/snr-responsive-website-grid/
 
 SNR Responsive Website Grid is the Responsive Grid System, a quick, easy and flexible way to create a responsive web site.Media queries allow the page to use different CSS style rules based on characteristics of the device the site is being displayed on, most commonly the width of the browser. The fluid grid concept calls for page element sizing to be in relative units like percentages or EMs, rather than absolute units like pixels or points, which is responsive and ranges from mobile, tablet, laptops and 
